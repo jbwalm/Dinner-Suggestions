@@ -11,3 +11,5 @@ This service will be extended in the future:
 - Adding css to spruce up the front end.
 - Extend the flask_restful api to actually provide api functionality...
 - Be permanently running once my server is up
+
+This could also be extended further with Docker Cloud.
